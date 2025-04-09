@@ -23,7 +23,7 @@ function Home() {
         <h1>cadastro de usuario</h1>
         <input type="text" name="name" id="" placeholder="entre com seu nome: " />
         <input type="email" name="email" id="" placeholder="entre com seu email: " />
-        <input type="number" name="age" id="" />
+        <input name="age"  type="number" placeholder="Enter your age" />
         <button type=''>cadastrar </button>
       </form>
 
